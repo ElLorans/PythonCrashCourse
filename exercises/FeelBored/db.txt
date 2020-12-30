@@ -1,0 +1,21 @@
+Monday
+10 Apple
+20 Ferrari
+
+Tuesday
+7 Fiat Chrysler Automobile
+4 Petro Brazil
+2 Huawei
+
+Wednesday
+12 Tesla
+4 Jp Morgan
+
+Thursday
+3 Wolkswagen
+
+Friday
+7 Coca-Cola
+3 Boeing
+-2 Airbus
+30 Dell
